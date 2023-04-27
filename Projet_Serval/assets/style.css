@@ -1,0 +1,24 @@
+.east{
+    background-image: url(./east.png);
+    background-size: cover;
+   
+    
+}
+.north{
+    background-image: url(./north.png);
+    background-size: contain;
+  
+}
+.west{
+    background-image: url(./west.png);
+    background-size: contain;
+   
+}
+.south{
+    background-image: url(./south.png);
+    background-size:contain
+}
+.compass{
+    width :150px;
+    height: 150px;
+}
